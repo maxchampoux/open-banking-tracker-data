@@ -69,8 +69,8 @@
     "mastercard"
   ],
   "virtualCards": [],
-  "applePay": false,
-  "googlePay": false,
+  "applePay": true,
+  "googlePay": true,
   "samsungPay": false,
   "fitbitPay": false,
   "partnerships": [
